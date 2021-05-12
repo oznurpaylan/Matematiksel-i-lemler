@@ -1,0 +1,13 @@
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.exe
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.deps.json
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.runtimeconfig.json
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.runtimeconfig.dev.json
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.dll
+C:\Users\öznur\Desktop\matFonk\matFonk\bin\Debug\netcoreapp3.1\matFonk.pdb
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.csprojAssemblyReference.cache
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.AssemblyInfoInputs.cache
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.AssemblyInfo.cs
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.csproj.CoreCompileInputs.cache
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.dll
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.pdb
+C:\Users\öznur\Desktop\matFonk\matFonk\obj\Debug\netcoreapp3.1\matFonk.genruntimeconfig.cache
